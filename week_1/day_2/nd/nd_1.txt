@@ -1,0 +1,25 @@
+The homework will be initial trial of using Openai client in Python.
+You will be using Openai python client from https://github.com/openai/openai-python
+and u will be using model proxy https://docs.github.com/en/github-models/prototyping-with-ai-models
+
+1. Create github account and create repository.
+2. Add .gitignore with Python.
+3. install rich, requests, python-dotenv, openai libraries.
+4. Create .env files with Github personal token. (ensure that .env is not committed)
+5. Create openai code as per example to point to github model gpt-4o.
+
+Advanced Optional: Try Structure mode in Openai.
+
+
+
+
+Namų darbai bus pradinis bandymas naudoti OpenAI klientą Python kalboje.
+Naudosite OpenAI Python klientą iš https://github.com/openai/openai-python
+ir naudosite modelio tarpininką iš https://docs.github.com/en/github-models/prototyping-with-ai-models
+
+1. Sukurkite GitHub paskyrą ir sukurkite saugyklą.
+2. Pridėkite .gitignore su Python nustatymais.
+3. Įdiekite rich, requests, python-dotenv, openai bibliotekas.
+4. Sukurkite .env failą su GitHub asmeniniu žetonu. (Įsitikinkite, kad .env failas nėra įsipareigotas į Git)
+5. Sukurkite OpenAI kodą pagal pavyzdį, nurodant GitHub modelį gpt-4o.
+Išplėstinė papildoma užduotis: Išbandykite struktūrizuotą režimą OpenAI.
