@@ -25,3 +25,10 @@
   
   - poetry/ virtual environments
   
+## Week 2
+
+### Day 1
+  - Fine-tuning vs RAG
+  - Simplified RAG.
+  - uv, dependency management
+  - Python notebooks
